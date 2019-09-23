@@ -1,3 +1,3 @@
 # 2019-OSSP-TEST
 
-OSSP example
+Open source software project example
